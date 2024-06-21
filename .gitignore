@@ -1,2 +1,8 @@
 # binary files
 01-hello-world/hello-world
+02-variables/declaring-vars
+02-variables/var-types-int
+02-variables/var-types-float-and-boolean
+02-variables/var-types-string
+02-variables/string-methods
+02-variables/var-types-constants
