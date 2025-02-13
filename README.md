@@ -1,7 +1,7 @@
 # go-tutorials
 Some beggining codes in Go to learn the language. All codes here are the first contact with Go and testing possibilities with the language.
 
-The foldes are divides by basic concepts (print in the screen, how to define a var and which var type exists, casing, conditional, loop, functions...), not so basic concepts (structs, pointers, file handling and packages) and intermediate (internet communication, implementing data structures, automated tests and pseudo classes). In `go-differential-things` is explored deeper the possibilities with Go going in its strong points (closures, concepts as defer, implemented a simples https server, real time communication and threads).
+The foldes are divides by basic concepts (print in the screen, how to define a var and which var type exists, casing, conditional, loop, functions...), not so basic concepts (structs, pointers, file handling and packages) and intermediate (internet communication, automated tests, closures and threads).
 
 ### How to install
 On Ubuntu, go to the terminal and run `sudo apt-get install golang-go`
