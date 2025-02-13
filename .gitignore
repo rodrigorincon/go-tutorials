@@ -25,7 +25,8 @@
 1-basics/04-byte-and-bit-handling/bit-manipulation-cypher
 1-basics/04-byte-and-bit-handling/hexa-octo-decimal
 
-1-basics/05-time-handling/time
+1-basics/05-time-handling/create-format-parse
+1-basics/05-time-handling/time-comparison
 
 2-not-so-basic/02-pointers/pointer-function-params
 2-not-so-basic/02-pointers/read-memory-loc
