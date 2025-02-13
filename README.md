@@ -30,10 +30,11 @@ func ConvertToJson(originalFile)
 
 // package names
 import("path/my_folder/my_file")
+my_file.MyFunction()
 
 // methods
 type EmployeeCompany struct{}
-func (ec *EmployeeCompany) getName(){}
+func (ec *EmployeeCompany) GetName(){}
 ```
 
 When creates a var, define explicity the type of the var. Example:
@@ -57,7 +58,7 @@ To comment in Go, always use single line comment (//). The block comment exists 
 */
 ```
 
-In Go the dependencies are commited and versioned together the project (vendor folder). It allows you always have everything you need to run your project and doesn't depend of anything. It specially important if you don't have some versioning in their dependencies, because if som of them is updated, your project can break.
+In Go the dependencies are commited and versioned together the project (vendor folder). It allows you always have everything you need to run your project and doesn't depend of anything. It specially important if you don't have some versioning in their dependencies, because if some of them is updated, your project can break.
 
 ### Important notes about the language
 Go is: 
