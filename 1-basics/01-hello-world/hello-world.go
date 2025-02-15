@@ -6,6 +6,9 @@ import "fmt" // importing fmt library to print in the screen
 func main() {
     myText := "hello world"
     fmt.Println(myText)
+
+    var var1, var2, var3 = true, 3, "hello"
+    fmt.Println(var1, var2, var3)
 }
 
 /* important notes:

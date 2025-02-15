@@ -29,6 +29,15 @@ func main() {
     fmt.Println("implicity_folat", implicity_folat)
     fmt.Println("the number of bytes is", unsafe.Sizeof(implicity_folat) )
 
+
+    /////// FLOATS AND INTEGERS
+    var integerNum int32 = 3
+    var floatNumber float32 = 3.0
+    // floatNumber = integerNum // WE CAN'T PASS INT VALUE TO FLOAT
+    floatNumber = float32(integerNum) // we need to convert to work
+    fmt.Println("converted value to floar", floatNumber)
+    // if(number1 == floatNumber){} // WE CAN'T COMPARE INT WITH FLOAT
+
     /////// COMPLEX NUMBERS
     var complex1 complex64 = 10 + 23i // imaginary float32
     var complex2 complex128 = 12i // imaginary float64
