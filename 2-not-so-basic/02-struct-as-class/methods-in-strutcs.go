@@ -10,7 +10,7 @@ type Person struct{
 
 	// presentation yourself with your dialect
 	Presentation func(personName string)string // the attribute is a function, but we can't write the body inside struct. We can only define the header
-											   // it's used for dependecy injection and add custom behavior
+											   // it's used to add custom behavior
 	//Presentation2 func(personName string)string{ fmt.Println("helo world") } // doesnt work!! 
 }
 
