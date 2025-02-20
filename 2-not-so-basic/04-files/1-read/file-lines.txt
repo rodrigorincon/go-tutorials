@@ -1,0 +1,3 @@
+hello world!
+Lorem ipsum dolor sit amet
+i'm learning Go. it's awesome!
