@@ -1,0 +1,1 @@
+[{"name":"João Silva","age":30,"useGlasses":true,"friends":[{"name":"Amigo do João","age":29,"useGlasses":true},{"name":"Amiga do João","age":28,"useGlasses":false}]},{"name":"Maria Silva","age":10,"useGlasses":false,"friends":[{"name":"Amigo da Maria","age":9,"useGlasses":true},{"name":"Amiga2 da Maria","age":8,"useGlasses":false}]}]

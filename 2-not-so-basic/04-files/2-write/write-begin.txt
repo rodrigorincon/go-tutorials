@@ -1,0 +1,4 @@
+This is the first line of the file. This file must receive a new first line before it.
+This is the second line of the file. This file must receive a new first line.
+This is the third line of the file. This file must receive a new first line.
+This is the fourth line of the file. This file must receive a new first line.

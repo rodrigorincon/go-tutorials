@@ -70,6 +70,11 @@
 
 2-not-so-basic/04-files/0-open/open-close
 2-not-so-basic/04-files/0-open/file-size
+2-not-so-basic/04-files/0-open/create-file
+2-not-so-basic/04-files/0-open/rename-file
+2-not-so-basic/04-files/0-open/newfoo.txt
+2-not-so-basic/04-files/0-open/new-name.txt
+2-not-so-basic/04-files/0-open/directory
 
 2-not-so-basic/04-files/1-read/read-entire-file
 2-not-so-basic/04-files/1-read/read-part-file
@@ -78,12 +83,22 @@
 2-not-so-basic/04-files/1-read/difference-scanner-reader
 2-not-so-basic/04-files/1-read/read-log
 
-2-not-so-basic/04-files/2-write/
+2-not-so-basic/04-files/2-write/write-new-file
+2-not-so-basic/04-files/2-write/overwrite-file
+2-not-so-basic/04-files/2-write/write-begin-dumb
+2-not-so-basic/04-files/2-write/write-begin-smart
+2-not-so-basic/04-files/2-write/write-end
+2-not-so-basic/04-files/2-write/new-file.txt
+2-not-so-basic/04-files/2-write/new-file2.txt
+2-not-so-basic/04-files/2-write/new-write-begin.txt
+2-not-so-basic/04-files/2-write/write-middle
 
-2-not-so-basic/04-files/3-directory/
+2-not-so-basic/04-files/3-json/convert-json-to-struct
+2-not-so-basic/04-files/3-json/convert-struct-to-json
 
-2-not-so-basic/04-files/4-json/
-
-2-not-so-basic/04-files/5-xml/
-
-2-not-so-basic/04-files/6-csv/
+2-not-so-basic/04-files/4-csv/convert-struct-to-csv
+2-not-so-basic/04-files/4-csv/people-sheet.csv
+2-not-so-basic/04-files/4-csv/convert-csv-to-struct
+2-not-so-basic/04-files/4-csv/read-lib
+2-not-so-basic/04-files/4-csv/write-lib
+2-not-so-basic/04-files/4-csv/write-lib.csv

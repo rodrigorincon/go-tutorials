@@ -1,0 +1,4 @@
+This is the first line of the file. This file must receive a new last line. Just use it in the "write-end" code.
+This is the second line of the file. This file must receive a new last line. Just use it in the "write-end" code.
+This is the third line of the file. This file must receive a new last line. Just use it in the "write-end" code.
+This is the fourth line of the file. This file must receive a new last line after this.
