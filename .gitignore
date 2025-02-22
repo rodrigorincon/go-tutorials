@@ -102,3 +102,7 @@
 2-not-so-basic/04-files/4-csv/read-lib
 2-not-so-basic/04-files/4-csv/write-lib
 2-not-so-basic/04-files/4-csv/write-lib.csv
+
+2-not-so-basic/05-imports/01-first-package/main
+2-not-so-basic/05-imports/02-package-with-many-files/main
+2-not-so-basic/05-imports/03-public-and-private/main
