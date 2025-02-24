@@ -106,3 +106,7 @@
 2-not-so-basic/05-imports/01-first-package/main
 2-not-so-basic/05-imports/02-package-with-many-files/main
 2-not-so-basic/05-imports/03-public-and-private/main
+2-not-so-basic/05-imports/04-first-module/main
+2-not-so-basic/05-imports/05-import-self-made-component/main
+
+2-not-so-basic/05-imports/06-library/main
