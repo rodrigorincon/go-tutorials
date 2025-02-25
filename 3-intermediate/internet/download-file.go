@@ -4,7 +4,7 @@ import (
     "os"
     "net/http"
     "io"
-    "gmt"
+    "fmt"
 )
 
 func main(){
@@ -17,9 +17,10 @@ func main(){
   defer file.Close()
 
   // do the http call (download the file)
-  resp, err := http.Get("")
+  resp, err := http.Get("https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf")
   if err != nil {
-    return err
+    fmt.Println("fail to connect with URL:", err.Error())
+    return
   }
   defer resp.Body.Close()
 
